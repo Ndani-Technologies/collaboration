@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ndani-Technologies/greenme-be-js-starter.git"
+    "url": "git+https://github.com/Ndani-Technologies/collaboration-service.git"
   },
   "author": "MM",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/Ndani-Technologies/greenme-be-js-starter/issues"
+    "url": "https://github.com/Ndani-Technologies/collaboration-service/issues"
   },
-  "homepage": "https://github.com/Ndani-Technologies/greenme-be-js-starter#readme",
+  "homepage": "https://github.com/Ndani-Technologies/collaboration-service#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
